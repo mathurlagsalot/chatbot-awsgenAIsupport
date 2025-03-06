@@ -4,4 +4,3 @@ langchain
 langchain_aws
 langchain_community
 streamlit
-amazon cli
